@@ -9,5 +9,5 @@ Then the transcript is preprocessed by:
 Sentences are scored using **TF-IDF** (Term Frequency-Inverse Document Frequency) to determine the importance of each sentence.
 Based on the scores, a summary of the top 50 sentences is created.
 References:
-  -Udemy Course:- Complete Data Science,Machine Learning,DL,NLP Bootcamp
-  -https://thegrenze.com/pages/servej.php?fn=14_1.pdf&name=YouTube%20Video%20Transcript%20Summarizer%20using%20NLP&id=1795&association=GRENZE&journal=GIJET&year=2023&volume=9&issue=2
+   -Udemy Course:- Complete Data Science,Machine Learning,DL,NLP Bootcamp
+   -https://thegrenze.com/pages/servej.php?fn=14_1.pdf&name=YouTube%20Video%20Transcript%20Summarizer%20using%20NLP&id=1795&association=GRENZE&journal=GIJET&year=2023&volume=9&issue=2
