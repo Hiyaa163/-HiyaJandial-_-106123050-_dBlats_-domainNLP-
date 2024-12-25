@@ -10,4 +10,4 @@ Sentences are scored using **TF-IDF** (Term Frequency-Inverse Document Frequency
 Based on the scores, a summary of the top 50 sentences is created.
 References:
   -Udemy Course:- Complete Data Science,Machine Learning,DL,NLP Bootcamp
-  -file:///C:/Users/hiyaj/Downloads/YouTube%20Video%20Transcript%20Summarizer%20using%20NLP%20(2).pdf 
+  -https://thegrenze.com/pages/servej.php?fn=14_1.pdf&name=YouTube%20Video%20Transcript%20Summarizer%20using%20NLP&id=1795&association=GRENZE&journal=GIJET&year=2023&volume=9&issue=2
